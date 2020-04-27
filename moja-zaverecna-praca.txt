@@ -1,1 +1,2 @@
 Konektivita v mobilných aplikáciách vyvíjaných v prostredí MIT App Inventor
+V tejto práci budem riešiť konektivitu v prostredí MIT App Inventor
